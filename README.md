@@ -45,3 +45,19 @@
 [Spree](https://spreecommerce.org/) is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations.
 
 [Sidekiq](https://sidekiq.org/) is a simple, efficient background processing for Ruby. It uses hreads to handle many jobs at the same time in the same process. It does not require Rails but will integrate tightly with Rails to make background processing dead simple.
+
+[Kaminari](https://github.com/amatsuda/kaminari/wiki) is a  Scope and Engine based, clean, powerful, and customizable  paginator for modern web app frameworks and ORMs.
+
+[React-Rails](https://github.com/reactjs/react-rails) is a flexible tool to use [React](http://facebook.github.io/react/) with Rails. By integrating React.js with Rails views and controllers, the asset pipeline, or webpacker.
+
+[Pry](https://github.com/pry/pry) is a runtime developer console and IRB alternative with powerful introspection capabilities.
+
+[Brakeman](https://brakemanscanner.org/) is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+
+[dotenv](https://github.com/bkeepers/dotenv) is a Ruby gem to load environment variables from `.env`.
+
+[Scientist](https://github.com/github/scientist) is a Ruby library for carefully refactoring critical paths.
+
+[fastlane](https://fastlane.tools/) is a tool written in Ruby for iOS and Android developers to automate tedious tasks like generating screenshots, dealing with provisioning profiles, and releasing your application.
+
+[Fluentd](https://www.fluentd.org/) collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on all written in Ruby.
