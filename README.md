@@ -32,6 +32,8 @@
 
 ## Tools
 
+[RubyMine](https://www.jetbrains.com/ruby/) is a professional IDE developed by Jet Brains that provides support for Ruby, Ruby on Rails and web development.
+
 [Rails](https://rubyonrails.org/) is a web-application framework that includes everything needed to create database-backed web applications according to the [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model-view-controller) pattern. Understanding the MVC pattern is key to understanding Rails. MVC divides your application into three layers: Model, View, and Controller, each with a specific responsibility.
 
 [rbenv](https://github.com/rbenv/rbenv) allows to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
